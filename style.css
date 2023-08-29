@@ -1,0 +1,55 @@
+
+
+.mishra{ background-color: blue;
+    height: 6cm;
+    text-align: center;
+    h1{font-size: 2cm;}
+    
+    #Admission{padding-left: 2cm;
+        padding-right: 2cm;}}
+        
+    #Admission{background-color: wheat;
+    height: 2cm;
+    }
+    
+    #navbar{  font-style: #000;
+    
+        height: 40px;
+        padding: end 90px;
+        color: rgb(0, 0, 0);
+        text-align:end;}
+        .border{border: 2px solid transparent;}
+    .border :hover { border: 2px solid white}
+    .border{border: 2px solid transparent;}
+.border :hover { border: 2px solid white
+   
+}
+body{
+    background-color:gainsboro;
+
+}
+a{
+    color: rgb(5, 1, 1);   
+}
+a{ margin: 20px;;
+    font-size: 20px;
+   
+}
+footer{padding-bottom: 2cm;
+    padding-top: 2cm;
+    padding-left: 2cm;
+    
+}
+body{
+    background-color:gainsboro;
+
+}
+a{
+    color: rgb(0, 0, 0);   
+}
+a{ margin: 20px;;
+    font-size: 20px;}
+    p{text-align: center;}
+h2{ 
+    color: blue;
+}
